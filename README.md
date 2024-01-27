@@ -1,5 +1,5 @@
 - Hi, I'm James Rogan
-- I'm interested in computer hardware and power electronics.
+- I'm interested in computer hardware, embeedded programming, and power electronics.
 - I'm currently studying Electrical Engineering at McGill
 - My Youtube channel with some of my hardware projects: https://www.youtube.com/channel/UCnfHwhGBq3AQS2KuFlILGfg
 - E-mail: jamesrogan53@gmail.com
